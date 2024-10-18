@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajo George</h1>
-<h3 align="center">A passionate 3rd year student of Honours Bachelor of Technology – Software Development Student at Seneca Polytechnic</h3>
+<h3 align="center">A passionate 4th year student of Honours Bachelor of Technology – Software Development Student at Seneca Polytechnic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajogseneca&label=Profile%20views&color=0e75b6&style=flat" alt="ajogseneca" /> </p>
 
